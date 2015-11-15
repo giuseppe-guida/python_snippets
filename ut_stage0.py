@@ -1,6 +1,8 @@
 import math
 
 class Solver:
+    def faa(self):
+        return
 
     def foo(self, nom, den):
         if den > 0:
